@@ -6,8 +6,8 @@ The latest version of Java must be installed on the computer.
 
 ## How to run
 Assuming that you have changed your directory to src in command line, enter the following:
-1. javac view/Main.java
-2. java view.Main
+1. javac views/Main.java
+2. java views.Main
 
 ## Authors
 * Art Xia
