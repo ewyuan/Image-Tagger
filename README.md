@@ -10,7 +10,7 @@ Assuming that you have changed your directory to src in command line, enter the 
 2. java view.Main
 
 ## Authors
-Art Xia
-Cici Zhang
-Eric Yuan
-Khori Watson
+* Art Xia
+* Cici Zhang
+* Eric Yuan
+* Khori Watson
