@@ -1,6 +1,6 @@
 package models;
 
-import view.Main;
+import views.Main;
 
 import java.io.Serializable;
 import java.util.ArrayList;

@@ -2,7 +2,7 @@ package models;
 
 import java.util.ArrayList;
 import java.io.*;
-import view.*;
+import views.*;
 
 /**
  * TagManager is the class which stores the central repository of tags which is referred to by other

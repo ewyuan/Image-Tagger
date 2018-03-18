@@ -3,7 +3,7 @@ package models;
 import java.io.*;
 import java.util.ArrayList;
 
-import view.*;
+import views.*;
 
 /**
  * A manager class to manage all Directory objects.
