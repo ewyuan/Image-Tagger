@@ -1,4 +1,4 @@
-# Image-Tagger
+# Image Tagger
 A program that tags images by renaming them using tags that are added on and managed by the program.
 
 ## Prerequisites
